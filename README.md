@@ -1,4 +1,1 @@
-# Parallel-Distributed-Computing
-
-Apriori Algorithm
-Parallel Implementation in MPI & OpenMP
+# Apriori Algorithm Parallel Implementation in MPI & OpenMP
